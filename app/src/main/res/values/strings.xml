@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ScientificCalculator</string>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="colorAsh">#bbb</color>
+    <color name="colorText">#777777</color>
+    <color name="colorBg">#03A8FF</color>
+</resources>
